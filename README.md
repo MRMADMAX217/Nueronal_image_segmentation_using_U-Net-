@@ -105,15 +105,3 @@ pip install tensorflow numpy matplotlib scikit-image scikit-learn pillow
 * Add model checkpointing and early stopping callbacks.
 * Include metrics like Dice coefficient and IoU for better evaluation.
 * Extend to 3D U-Net++ for volumetric segmentation.
-
----
-
-## License
-
-Include a license (e.g., MIT) for open-source sharing.
-
----
-
-## Contact
-
-If you want, I can extend this README with visual architecture diagrams, sample dataset structure, or benchmark results from your notebook outputs.
